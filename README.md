@@ -80,7 +80,3 @@ Built with **React Native**, enabling quick car service bookings via QR scan. De
 > *"I strive to build solutions that are efficient, scalable, and elegant — from architecture to UI."*  
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sribalajimuruganandham&show_icons=true&theme=radical" alt="Sri Balaji GitHub Stats" />
-</p>
