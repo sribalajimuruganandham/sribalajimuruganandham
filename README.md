@@ -70,8 +70,6 @@ Built with **React Native**, enabling quick car service bookings via QR scan. De
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sribalajim/)
-- 💻 [GitHub](https://github.com/sribalajimuruganandham)
-
 ---
 
 ## 💡 Philosophy
